@@ -1,0 +1,29 @@
+.images-search-title-container {
+  width: 100%;
+  padding: 32px 0px 32px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.images-search-title-container span {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.images-search-input-container {
+  width: 100%;
+  padding: 32px 0px 32px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.images-search-input-container input {
+  height: 60px;
+  width: 600px;
+  font-size: 30px;
+  padding-left: 12px;
+}
