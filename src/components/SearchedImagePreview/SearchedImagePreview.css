@@ -6,6 +6,6 @@
   justify-content: center;
   align-items: center;
   background-color: lightgrey;
-  border: 1px solid grey;
   cursor: pointer;
+  box-shadow: 4px 4px 4px grey;
 }
